@@ -13,5 +13,8 @@
         from sklearn.model_selection import train_test_split<br>
         from sklearn.metrics import accuracy_score,confusion_matrix, classification_report<br>
         from sklearn.neighbors import KNeighborsClassifier</h3>
+    <section>
+        <div><img src="img/grafik accuracy score.png" ></div>
+    </section>
 </body>
 </html>
