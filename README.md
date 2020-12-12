@@ -10,11 +10,9 @@
     <h3>import pandas as pd<br>
         import matplotlib.pyplot as plt<br>
         import seaborn as sn<br>
-        
         #import modul for calssification model<br>
         from sklearn.model_selection import train_test_split<br>
         from sklearn.metrics import accuracy_score,confusion_matrix, classification_report<br>
-        
         #KNN Algorithm<br>
         from sklearn.neighbors import KNeighborsClassifier</h3>
 </body>
